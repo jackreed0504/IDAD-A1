@@ -18,3 +18,7 @@ ul {
   display: inline-block;
   text-align: left;
 }
+
+img {
+  width: 20rem;
+}
