@@ -26,6 +26,10 @@ img {
   border: 0.2rem solid black;
 }
 
+.holdspace {
+  display: inline;
+}
+
 li {
   display: table-cell;
   text-align: center;
