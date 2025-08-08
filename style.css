@@ -15,10 +15,19 @@ body {
 }
 
 ul {
-  display: inline-block;
-  text-align: left;
+  display: table;
+  margin: 0 auto;
+  padding: 0;
 }
 
 img {
-  width: 20rem;
+  width: 28rem;
+  display: block;
+  border: 0.2rem solid black;
+}
+
+li {
+  display: table-cell;
+  text-align: center;
+  padding: 2rem;
 }
