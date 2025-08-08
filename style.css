@@ -1,9 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap");
+
+body {
+  margin-left: 10rem;
+  margin-right: 10rem;
+}
+
 header {
   text-align: center;
 }
 
 body {
-  font-family: atami;
+  font-family: lexend;
   text-align: left;
 }
 
